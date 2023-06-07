@@ -1,3 +1,8 @@
 # Restring-Manager!
 
-[Capture](https://github.com/Darren0110/Restring-Manager/assets/102897343/ed141f05-2932-451a-b19d-5db836b49089)
+<br />
+
+<img src="https://github.com/Darren0110/Restring-Manager/assets/102897343/5078f159-7f2c-4b39-ad8e-2c605da193c7" width="200"/>
+
+<br />
+
