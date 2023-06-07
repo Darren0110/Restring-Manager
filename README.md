@@ -1,6 +1,5 @@
 # Restring-Manager V2
 
-## Purpose
 Kept record of the customer as well as their order details for Auckland Badminton Pro-shop. Restring Manager works as an internal tool for shop staff to optimize operational workflow and increase retail efficiency.
 
 
